@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/内核/mm/内存回收-MGLRU.md",
+                "file": "01-life/儿童保险/儿童.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "内存回收-MGLRU"
+              "title": "儿童"
             }
           }
         ]
@@ -166,32 +166,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9a7ee8449d4cee50",
+  "active": "d07b7e1fc2aa5c88",
   "lastOpenFiles": [
+    "00-Technology/kernel/锁机制/spinlock.md",
+    "01-life/儿童保险/儿童.md",
+    "01-life/儿童保险",
+    "01-life",
+    "00-Technology/kernel/mm/伙伴系统.md",
+    "00-Technology/kernel/锁机制",
+    "2026-06-26.md",
+    "00-Technology/kernel/damon/damon-5.10内核.md",
+    "00-Technology/kernel/damon/疑问.md",
+    "2026-06-24.md",
+    "00-Technology/qemu/编译qemu.md",
+    "00-Technology/qemu",
+    "99-template/daily.md",
+    "00-Technology/kernel/damon/damon_region_analysis.md",
+    "2026-06-23.md",
+    "00-Technology/kernel/damon/damon_damos_analysis.md",
+    "00-Technology/kernel/damon/damon_core_structures.md",
+    "00-Technology/kernel/damon/damon And damos.md",
+    "00-Technology/kernel/damon/用户态工具-damo.md",
+    "技术/内核/mm/内存回收-MGLRU.md",
+    "99-template",
+    "00-Technology/kernel/trace/perf.md",
+    "00-Technology/kernel/trace/ftrace.md",
+    "00-Technology/kernel/trace/bfptrace.md",
+    "00-Technology/kernel/sched/scheduler-analysis.md",
+    "00-Technology/kernel/mm/内存回收-MGLRU.md",
+    "00-Technology/kernel/mm/mm-struct.md",
+    "00-Technology/kernel/mm/mglru-deep-dive.md",
+    "00-Technology/kernel/trace",
+    "00-Technology/kernel/sched",
+    "00-Technology/kernel/mm",
+    "00-Technology/kernel/damon",
+    "00-Technology/kernel",
     "技术/内核/damon/damon And damos.md",
     "技术/内核/damon/用户态工具-damo.md",
-    "技术/内核/mm/内存回收-MGLRU.md",
     "技术/内核/trace/perf.md",
-    "技术/内核/trace/ftrace.md",
-    "技术/内核/trace/bfptrace.md",
-    "技术/内核/未命名.md",
-    "技术/内核/mm",
-    "技术/内核/trace",
-    "未命名 2",
-    "技术/内核/damon",
-    "未命名",
-    "模板/daily.md",
-    "技术/内核",
-    "2026-06-23.md",
-    "日常/2026-06-23 1.md",
-    "日常/2026-06-23.md",
-    "日常",
-    "模板",
-    "未命名.canvas",
-    "未命名 1.base",
-    "未命名.base",
-    "技术/操作系统.md",
-    "创建链接.md",
-    "欢迎.md"
+    "未命名.canvas"
   ]
 }
