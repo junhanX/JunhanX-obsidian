@@ -11,10 +11,14 @@
             "id": "9a7ee8449d4cee50",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-technology/kernel/锁机制/锁机制.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "锁机制"
             }
           }
         ]
@@ -162,8 +166,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d07b7e1fc2aa5c88",
+  "active": "9a7ee8449d4cee50",
   "lastOpenFiles": [
+    "01-life/儿童保险/儿童.md",
+    "01-technology/kernel/锁机制/锁机制.md",
     "02-life/儿童保险/儿童.md",
     "02-life/儿童保险",
     "02-life",
@@ -196,10 +202,8 @@
     "01-technology/kernel",
     "00-index/git-worktree-guide.md",
     "00-Technology/kernel/锁机制/spinlock.md",
-    "01-life/儿童保险/儿童.md",
     "00-Technology/kernel/mm/伙伴系统.md",
     "2026-06-26.md",
-    "00-Technology/kernel/damon/damon-5.10内核.md",
     "未命名.canvas"
   ]
 }
