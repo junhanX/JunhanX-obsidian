@@ -27,7 +27,7 @@ spinlock_t
 
 位置：`include/linux/spinlock_types_raw.h:14`
 
-```c
+```
 typedef struct raw_spinlock {
     arch_spinlock_t raw_lock;       // 架构特定实现
 #ifdef CONFIG_DEBUG_SPINLOCK
@@ -157,6 +157,8 @@ static __always_inline void queued_spin_unlock(struct qspinlock *lock)
 
 - 使用 `smp_store_release` 提供 release 语义，确保临界区内的所有操作在解锁前完成
 - 如果有等待者，当前驱的 `node->locked` 被设置为 1 时，等待者被唤醒
+
+contexts: task, softirq, hardirq, nmi
 
 ## 四、MCS 锁基础
 
